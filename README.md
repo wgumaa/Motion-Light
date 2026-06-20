@@ -79,6 +79,8 @@ This approach works well across the year because Home Assistant tracks sunset dy
 
 ## Installation
 
+[![Open your Home Assistant instance and import this blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/wgumaa/home-assistant-blueprints/blob/main/motion-light.yaml)
+
 ### Import from a URL
 
 Home Assistant supports importing a blueprint by URL through the Blueprints page.
